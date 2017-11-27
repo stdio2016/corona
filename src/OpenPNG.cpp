@@ -5,6 +5,7 @@
  */
 
 
+#include <cstring>
 #include <png.h>
 #include "Debug.h"
 #include "Open.h"

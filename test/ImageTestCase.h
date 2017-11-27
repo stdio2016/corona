@@ -1,7 +1,7 @@
 #ifndef IMAGE_TEST_CASE_H
 #define IMAGE_TEST_CASE_H
 
-
+#include <cstring>
 #include "TestFramework.h"
 
 
